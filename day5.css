@@ -1,0 +1,31 @@
+
+.h1
+{
+    color:yellow;
+    background-color:#328da8;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 100;
+}
+
+day4.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>day4</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="day4.css">
+
+</head>
+<body>
+    <h1 class="heading">heading</h1>
+    <p class="para">ronaldo is the best footballer in the world
+    </p>
+    <button>click me</button>
+</body>
+</html>

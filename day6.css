@@ -1,0 +1,37 @@
+body
+{
+    background-color: aqua;
+    opacity: 0.9 ;
+}
+.head
+{
+    text-align: center;
+    
+}
+.para
+{
+    text-align: center;
+}
+.buto
+{
+    
+}
+.bgimg
+{
+    background-image: url("https://ik.imagekit.io/crwndpvjv/mern%20stack/ronaldo.jpg?updatedAt=1718540766864");
+    height: 3800px;
+    background-repeat: no-repeat;
+    
+    background-size: contain;
+
+}
+.model
+{
+    background-color: red;
+    width:100vw;
+    height:100vh;
+    padding-left:400px;
+    padding-top: 400px;
+    padding-right: 400px;
+    padding-bottom: 400px;
+}
